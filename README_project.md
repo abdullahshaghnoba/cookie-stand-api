@@ -19,7 +19,7 @@
 
 2. DATABASE_URL - postgres://lawedncu:vRk9-FNQ779qOZtpzZ-k6gn0We5iMbzJ@stampy.db.elephantsql.com/lawedncu
 3. How to initialize/run your application 
-- python manage.py sunserver
+- python manage.py runserver
 
 ---
 
