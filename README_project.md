@@ -3,7 +3,7 @@
 ## Author: Abdullah Shaghnoba
 
 3. How to initialize/run your application 
-- python manage.py sunserver
+- python manage.py runserver
 
 ---
 
