@@ -5,6 +5,11 @@
 3. How to initialize/run your application 
 - python manage.py runserver
 
+
+---
+
+## deployed URL 'https://cookie-stand-api-abdullah-dev.vercel.app/'
+
 ---
 
 ## Tests
